@@ -1,0 +1,127 @@
+= Manifest a favor de la sobirania tecnològica i dels drets digitals de les ciutats
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+:page-layout: manifesto
+
+{revnumber}
+
+== Els nostres valors i creences
+
+.	Creiem en la *sobirania tecnològica* per a les ciutats, per al control i autonomia total de les seves tecnologies de la informació i la comunicació (TIC), incloent infraestructures de serveis, llocs web, aplicacions i dades, en compliment i amb el suport de lleis que protegeixen els interessos dels municipis i els seus ciutadans.
++
+****
+La sobirania tecnològica ajuda les ciutats a protegir els drets dels ciutadans mitjançant una major accessibilitat, transparència i rendició de comptes necessaris per al govern obert.
+****
+
+.	Creiem que els *drets digitals dels ciutadans* s'han de situar al centre de les polítiques digitals de les ciutats i s'han de protegir mitjançant l'aplicació de polítiques de sobirania tecnològica i democràcia digital.
++
+****
+Els drets digitals dels ciutadans inclouen els drets de privacitat, seguretat, autodeterminació de la informació i neutralitat, que permeten als ciutadans escollir què passa amb la seva identitat digital, que utilitza les seves dades en línia i amb quines finalitats. La democràcia digital permet una major participació ciutadana en el disseny i la governança dels serveis de les ciutats i de les ciutats.
+****
+
+.	Creiem que el *Programari Lliure*, *Dades Obertes* i *Estàndards Oberts*, *Formats de documents i dades i protocols de comunicació* són les bases de la sobirania tecnològica per a les ciutats i donen el millor suport als drets digitals dels nostres ciutadans.
++
+****
+El programari lliure, les dades obertes i els estàndards oberts, els formats i els protocols, proporcionen a les ciutats i als ciutadans eines que permeten l'accés i la prestació de serveis digitals no discriminatoris. No es tracta només d’un paradigma tecnològic, sinó d’una cultura que ajudi els individus i les comunitats a protegir els seus drets digitals, així com a aconseguir la innovació i assolir objectius beneficiosos per a la societat de manera col·laborativa.
+****
+
+.	Creiem que el *Programari Lliure* proporciona una base sòlida per aconseguir millors nivells d'*eficiència*, *estabilitat* i *interoperabilitat* necessaris per a les plataformes TIC de les ciutats, a través de la propietat del codi font, el desenvolupament i la participació col·laborativa, que permeten la participació en la seguretat, validació i millora dels serveis digitals.
++
+****
+La inversió municipal i la participació en projectes de programari lliure ajuden a desenvolupar habilitats locals i contribueixen a tecnologies que puguin reforçar els drets digitals dels ciutadans, alhora que aporten beneficis a l'economia local. El programari lliure ofereix un valor econòmic en termes de sostenibilitat a llarg termini i de desenvolupament econòmic local que és superior a qualsevol guany financer a curt termini.
+****
+
+.	Creiem que l'*Open City Data* és un element necessari de la sobirania tecnològica i ha de ser gestionat i proporcionat de manera ètica, transparent, accessible i sostenible.
++
+****
+A més de donar suport a la innovació local, Open City Data apodera als ciutadans i permet una millor presa de decisions a les ciutats basada en dades i, en proporcionar visibilitat i rendició de comptes, indueix més confiança en els governs locals i una major participació ciutadana en la formulació de polítiques.
+****
+
+.	Creiem que l’adopció obligatòria d’*Estàndards Oberts*, formats de documents i dades i protocols de comunicació millorarà la transparència, la coordinació entre les administracions públiques i la col·laboració amb el sector privat.
++
+****
+Els estàndards, els formats i els protocols oberts compartits entre administracions públiques, fan que els serveis siguin millors per als usuaris i siguin més econòmics. Els estàndards oberts simplifiquen l'accés a la informació a totes les organitzacions i persones que vulguin participar en el desenvolupament de la ciutat.
+****
+
+Per tant, els nostres valors principals són
+
+* Sobirania tecnològica, inclosa la sobirania de dades
+* Drets digitals pels ciutadans
+* Interoperabilitat i accessibilitat
+* Desenvolupament col·laboratiu, a través de l’ús compartit de recursos
+* Participació ciutadana i industrial en disseny i governança tecnològica
+* Transparència i auditabilitat, seguretat i privacitat
+
+== Els nostres objectius
+
+****
+Totes les polítiques digitals municipals donin prioritat a la protecció dels drets digitals dels ciutadans, reflecteixin els seus desitjos i es basin en la seva participació.
+****
+
+****
+Les TIC municipals implementin i donin suport als drets digitals dels ciutadans, incloent-hi la privadesa, la seguretat, la responsabilitat i la neutralitat pel disseny, i donin als ciutadans la capacitat de decidir què passa amb la seva identitat digital, qui utilitza les seves dades i amb quines finalitats.
+****
+
+****
+Tots els serveis digitals municipals s’implementin a través del programari lliure i tot el maquinari estigui sota el control de la ciutat i executi el programari lliure.
+****
+
+****
+Les ciutats publiquin els components de les seves infraestructures de serveis TIC i les comparteixin amb altres ciutats, per permetre una participació més àmplia en la millora d'aquests components compartits, de manera individual o col·lectiva.
+****
+
+****
+Tots els components de les TIC de la ciutat compleixin els estàndards oberts, els formats de documents i dades i els protocols de comunicació.
+****
+
+****
+Totes les dades processades i publicades per les ciutats no requereixin la compra i/o ús d’eines o serveis de font propis i/o tancats. L’accés i l’ús de serveis digitals municipals no requerirà que els ciutadans gestionin cap programari que no sigui gratuït.
+****
+
+****
+Les ciutats es beneficiïn i fomentin un ecosistema local de socis, proveïdors i usuaris amb experiència demostrada en la prestació de serveis i infraestructures basades en programari lliure i dades obertes, utilitzant estàndards oberts, formats i protocols. Tots els concursos municipals de serveis TIC puguin ser complerts per membres del sector TIC local amb habilitats en programari lliure i dades obertes.
+****
+
+****
+Les TIC de les ciutats permetin als ciutadans accedir, visualitzar i analitzar la informació pública i fomentar el compromís i la participació cíviques, p. ex. mitjançant API documentades perquè els usuaris puguin desenvolupar el seu propi programari per sol·licitar serveis de la ciutat. Els llocs web de la ciutat no tinguin etiquetes de seguiment, no utilitzin recursos de llocs de tercers i totes les seves funcionalitats funcionin correctament fins i tot si el navegador de l’usuari no executa el codi Javascript.
+****
+
+== Accions per aconseguir els nostres objectius
+
+****
+Les ciutats han de desenvolupar i implementar un programa de drets digitals i d'igualtat, fer el seguiment i supervisió del respecte dels drets digitals dels ciutadans i crear conjuntament eines i recursos per ajudar a avançar en aquest esforç.
+****
+
+****
+Les ciutats hauran de contractar serveis TIC basats en programari lliure i només consideraran ofertes no lliures quan no hi hagi una oferta basada en programari lliure. La contractació de components per a les infraestructures TIC de les ciutats ha de permetre ofertes basades exclusivament en programari lliure i adjudicaran projectes a ofertes basades en programari lliure quan es presentin.
+****
+
+****
+Les ciutats han de revisar i publicar com a programari lliure els components existents de la seva infraestructura TIC, en què té els drets per fer-ho. A més, les ciutats han d’identificar els elements de la seva infraestructura TIC que són oportunitats per implementar o substituir el programari lliure.
+****
+
+****
+Les ciutats han d’utilitzar els recursos de _hardware_ controlats per la pròpia ciutat mitjançant l’adopció de mesures tècniques i organitzatives adequades per garantir la protecció de les dades i la privadesa dels seus ciutadans i visitants.
+****
+
+****
+Les ciutats han de sumar els seus pressupostos d’infraestructura TIC per a l’adquisició comuna de tecnologies i serveis de programari lliure i eines per publicar conjunts de dades obertes.
+****
+
+****
+Les ciutats han de desenvolupar internament habilitats apropiades relacionades amb el programari lliure i les dades obertes per aconseguir una gestió autònoma de les seves infraestructures i serveis TIC.
+****
+
+****
+Les ciutats han de promoure i donar suport a empreses i comunitats locals basades en programari lliure i dades obertes mitjançant el desenvolupament d’habilitats, fomentant la creació de xarxes, donant suport a empreses de programari lliure i dades obertes, grups d’usuaris i esdeveniments, i proporcionar recursos financers i d’altres tipus.
+****
+
+****
+Les ciutats han de donar suport i fomentar el desenvolupament de currículums de programari lliure, dades obertes i drets digitals a les seves institucions educatives de l'àrea municipal, per crear una cultura d'obertura i col·laboració que donarà suport a les polítiques de TIC de les ciutats per al futur.
+****
+
+****
+Les ciutats han de revisar i publicar com a dades obertes totes les dades no confidencials o privades generades per les TIC municipals i proporcionar plataformes perquè altres entitats facin el mateix, per promoure una relació transparent i col·laborativa entre el govern de la ciutat i els ciutadans.
+****
