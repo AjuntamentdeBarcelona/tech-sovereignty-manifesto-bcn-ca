@@ -18,7 +18,7 @@ La sobirania tecnològica ajuda les ciutats a protegir els drets dels ciutadans 
 .	Creiem que els *drets digitals dels ciutadans* s'han de situar al centre de les polítiques digitals de les ciutats i s'han de protegir mitjançant l'aplicació de polítiques de sobirania tecnològica i democràcia digital.
 +
 ****
-Els drets digitals dels ciutadans inclouen els drets de privacitat, seguretat, autodeterminació de la informació i neutralitat, que permeten als ciutadans escollir què passa amb la seva identitat digital, que utilitza les seves dades en línia i amb quines finalitats. La democràcia digital permet una major participació ciutadana en el disseny i la governança dels serveis de les ciutats i de les ciutats.
+Els drets digitals dels ciutadans inclouen els drets de privacitat, seguretat, autodeterminació de la informació i neutralitat, que permeten als ciutadans escollir què passa amb la seva identitat digital, qui utilitza les seves dades en línia i amb quines finalitats. La democràcia digital permet una major participació ciutadana en el disseny i la governança dels serveis de les ciutats i de les ciutats.
 ****
 
 .	Creiem que el *Programari Lliure*, *Dades Obertes* i *Estàndards Oberts*, *Formats de documents i dades i protocols de comunicació* són les bases de la sobirania tecnològica per a les ciutats i donen el millor suport als drets digitals dels nostres ciutadans.
